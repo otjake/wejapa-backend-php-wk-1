@@ -19,7 +19,7 @@ require "processor.php";
                 <h3 style="text-align: center">Introduce Yourself</h3>
                 <form action="" method="post">
                     <div class="entries">
-                        <label>Fullname</label><br>
+                        <label>Fullnames</label><br>
                         <input  type="text" name="fullname" placeholder="Enter Your fullname" required>
                     </div>
 
